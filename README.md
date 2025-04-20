@@ -11,7 +11,7 @@
 
 # 👋 Hi, I’m Kevin
 
-This Github is primarily for OSS contributions. It also is a repo mirror from Gitlab and my personal Gitea instance. Many many backups.
+This Github is primarily for OSS contributions. It also is a repo mirror from Gitlab.
 
 
 <a id="org7d87f87"></a>
