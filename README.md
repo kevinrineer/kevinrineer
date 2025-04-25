@@ -11,14 +11,16 @@
 
 # 👋 Hi, I’m Kevin
 
-This Github is primarily for OSS contributions. It also is a repo mirror from Gitlab.
+This Github is primarily for OSS contributions. It also is a repo mirror from Gitlab. I'd rather use cGit or codeberg, but time is precious.
 
 
 <a id="org7d87f87"></a>
 
 # 👀 I’m interested in:
 
--   HPC, Supercomputing, AI, and Quantum Computing
+-   Distributed Computing
+-   Software Reproducibility
+-   Quantum Computing
 -   ML/DL solutions especially within the audio space
 
 
@@ -26,10 +28,8 @@ This Github is primarily for OSS contributions. It also is a repo mirror from Gi
 
 # 🌱 Currently learning
 
--   Currently studying for completion of the Linux Foundation Certified Sysadmin (LFCS) track
--   ****Backburner**** I’m currently learning the skills I need to build a phoneme ASR. My first project to be completed will be an accent classifier for the English Language. I plan to follow that with an IPA transcription solution.
--   ****Backburner**** Beyond that? I&rsquo;d like to create open source applications to improve the lives of those with disabilities.
-
+-   Whether I want to mainly be using emacs or neovim (and enough elisp and lua to really configure them to my needs). I like emacs more, but vi{m} is more targeted to text as a use-case (and is more commonly installed).
+-   Rust 🦀
 
 <a id="orgd0d761c"></a>
 
@@ -38,5 +38,5 @@ This Github is primarily for OSS contributions. It also is a repo mirror from Gi
 email kevinrineer@proton.me
 
 # Other notes
-You might find some work for Virtual Table Tops (VTTs) on here as well. Table top role playing games are a hobby of mine and when I have extra time not playing, I like to help making tools for others to play.
+Table top role playing games are a big hobby of mine. I  
 
