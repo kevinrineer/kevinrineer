@@ -28,8 +28,11 @@ This Github is primarily for OSS contributions. It also is a repo mirror from Gi
 
 # 🌱 Currently learning
 
--   Whether I want to mainly be using emacs or neovim (and enough elisp and lua to really configure them to my needs). I like emacs more, but vi{m} is more targeted to text as a use-case (and is more commonly installed).
 -   Rust 🦀
+-   Various HPC related topics
+-   How Linux handles screenreaders (so, orca, odelia, accesskit, speech-dispatcher, et al.)
+-   Various Linux accessibility tools.
+-   Whether I want to mainly be using emacs or neovim (and enough elisp and lua to really configure them to my needs). I like emacs more, but vi{m} is more targeted to text as a use-case (and is more commonly installed).
 
 <a id="orgd0d761c"></a>
 
@@ -38,5 +41,5 @@ This Github is primarily for OSS contributions. It also is a repo mirror from Gi
 email kevinrineer@proton.me
 
 # Other notes
-Table top role playing games are a big hobby of mine. I  
+Table top role playing games are a big hobby of mine.
 
