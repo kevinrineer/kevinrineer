@@ -18,10 +18,11 @@ This Github is primarily for OSS contributions. It also is a repo mirror from Gi
 
 # 👀 I’m interested in:
 
--   Distributed Computing
--   Software Reproducibility
+-   Distributed Computing (High Performance Computing)
+-   Software Reproducibility (Containers, Nix, Guix)
+-   Accessibility
 -   Quantum Computing
--   ML/DL solutions especially within the audio space
+-   ML/DL solutions especially with a focus on audio processing and classification
 
 
 <a id="org11a6bde"></a>
